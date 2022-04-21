@@ -30,10 +30,10 @@
 
 * Group Number - **6**
 * Team Members
-  * Ravi Kant Pujari
-  * Khushboo Jaikishan Kodwani
-  * Nikita Dhingra
-  * Gowripriya Ginnam
+  * Ravi Kant Pujari - 200501409
+  * Khushboo Jaikishan Kodwani - 200506905
+  * Nikita Dhingra - 200511574
+  * Gowripriya Ginnam - 200511751
 
 <br>
 
